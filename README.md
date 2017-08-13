@@ -2,5 +2,7 @@
 
 
 ------------
-##### 联系方式
+##### 联系
 如果有什么疑问或者建议，可以直接*issue*，或者发送至邮箱：*li.xin.peng@qq.com*
+
+> 除注明外，所有文章均采用 [Creative Commons BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/deed.zh)（自由转载-保持署名-非商用-禁止演绎）协议发布
